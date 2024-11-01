@@ -36,6 +36,20 @@ MySQL Workbench
 - Aggregate Functions
 - Common Table Expression
 
+## Actionable Insights
+
+1. Product
+- Food and beverages and Fashion accessories stock needs to be reviewed regularly to attract more orders.
+- Need to improve product quality and come up with variations in Sports and electronic accessories category.
+- Food and beverages and Fashion accessories category can be combined with other least sold product categories to further increase product sale.
+Sales
+- Most of the sales have been observed in January month because of new year, pagoda festivals and favourable month for tourists, so adding dynamic pricing and providing offers can increase sales.
+- E-wallet and credit cards awareness program can be designed to promote safe online payment and EMI options for ease of business.
+- Gender specific promotions can be exercised to educate customers about different product segments.
+Customer
+- Facebook is mostly used social network site in Myanmar and can be used for promotions and sales offers to increase customer base.
+- Most of ratings and orders have been placed in Saturday and Tuesday in afternoon time, so advertisements and offers can be designed accordingly to improve efficiency.
+- Need to do regular customer review after purchases and promote to take memberships.
 ## Lessons Learned
 
 - Different techniques of loading data into workbench.
