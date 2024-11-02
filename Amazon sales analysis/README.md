@@ -3,13 +3,11 @@
 
 This project is a sales analysis of E-Commerce giant Amazon in three distinct cities of country Myanmar (Burma), In this project we will go through detailed analysis of sales happened in the months of Jan, Feb and march 2019 to gain insights in order to improve sales.
 
-
 ## Objective
 1. Product Analysis
 - City-wise product consumption.
 - Product consumption on the basis of weekday and month.
 - Best and least performing product lines.
-
 
 2. Sales Analysis
 - Sales by month, weekday and payment method.
@@ -50,6 +48,7 @@ Customer
 - Facebook is mostly used social network site in Myanmar and can be used for promotions and sales offers to increase customer base.
 - Most of ratings and orders have been placed in Saturday and Tuesday in afternoon time, so advertisements and offers can be designed accordingly to improve efficiency.
 - Need to do regular customer review after purchases and promote to take memberships.
+
 ## Lessons Learned
 
 - Different techniques of loading data into workbench.
