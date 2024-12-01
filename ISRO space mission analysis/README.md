@@ -19,7 +19,7 @@ MySQL Workbench
 - Window Functions
 - Regular Expressions
 - Aggregate Functions
-- Common Table Expressio
+- Common Table Expression
 - Temporary Table
 
 ## Insights
